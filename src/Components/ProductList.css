@@ -14,7 +14,7 @@
   
   .product-list-item {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between; /* este codigo es el que hace que los elementos esten en ambos extremos */ 
     align-items: center;
     margin-bottom: 10px;
   }
